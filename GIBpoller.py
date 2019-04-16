@@ -155,7 +155,7 @@ def get_data(action, lang=None):
 
 if __name__ == "__main__":
 	# compromised data
-	#get_data('accs')
+	get_data('accs')
 	get_data('cards')
 	get_data('imei')
 	get_data('mules')
